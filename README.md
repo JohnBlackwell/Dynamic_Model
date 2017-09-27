@@ -1,4 +1,4 @@
-Written Spring 2017. This project aimed to model the agent - based
+Written Spring 2017. 
 
 Goal is to implement agent-based models for social sorting by simulating the clustering affect of agents
 interacting in a grid.
